@@ -5,6 +5,8 @@ This mini Keyboard is using the original Blackberry Q20 keyboard with Trackpad a
 
 ![Summary](https://i.imgur.com/Ig00oQE.jpeg)
 
+If you have any questions, you are welcome to join the [Discord community](https://discord.gg/fp7NGfmV)
+
 ## Features
 ### Hardware:
 
