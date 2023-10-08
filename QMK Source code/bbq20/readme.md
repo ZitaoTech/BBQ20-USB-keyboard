@@ -6,7 +6,7 @@ bbq20-USB-Keyboard is a mini keyboard, which based on the keyboard on blackberry
 
 * Keyboard Maintainer: [ZitaoTech](https://github.com/ZitaoTech)
 * Hardware Supported: RP2040
-* Hardware Availability:[tindie](https://www.tindie.com/products/zitaotech/blackberry-bbq20-usb-keyboard-with-trackpad/)
+* Hardware Availability: [tindie](https://www.tindie.com/products/zitaotech/blackberry-bbq20-usb-keyboard-with-trackpad/)
 
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
